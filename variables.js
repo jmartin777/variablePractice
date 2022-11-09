@@ -4,9 +4,14 @@ var greeting = "Hello , how are you doing today?"
 var thought = "What am I going to cook tonight?"
 
 /// Reassign "string" variable values
-var comment = "Is anyone out there?"
-var greeting = "Welcome starnger"
-var thought = "I have a pet praying mantis who eats everything."
+comment = "Is anyone out there?"
+console.log(comment)
+
+greeting = "Welcome starnger"
+console.log(greeting)
+
+thought = "I have a pet praying mantis who eats everything."
+console.log(thought)
 
 
 
